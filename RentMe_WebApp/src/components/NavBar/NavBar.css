@@ -1,6 +1,7 @@
 .navbar {
     display: flex;
     align-items: center;
+    justify-content: flex-end;
     
 }
 
@@ -12,10 +13,16 @@
 }
 
 .navbar ul li {
-    margin-right: 20px;
+    margin: 10px 20px;
 }
 
 .navbar ul li a {
     color: white;
     text-decoration: none;
+    font-family: "Spline Sans";
+}
+
+.navbar ul li a:hover {
+    color: #d43f3f;
+    transition-duration: 300ms;
 }

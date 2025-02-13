@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "react-bootstrap": "^2.10.9"
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "react": "^19.0.0",
+    "react-bootstrap": "^2.10.9",
+    "react-dom": "^19.0.0",
+    "vite": "^6.1.0"
   }
 }
